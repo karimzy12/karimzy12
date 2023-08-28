@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @karimzy12
-- 👀 I’m interested in web designig
-- 🌱 I’m currently learning htmland css
+- 👋 Hi, I’m @ukhti_karimah_koa
+- 👀 I’m a web and grsphics designer
+- 🌱 I’m currently learning wordpress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdulsalamkarimat1509692@gmail.com
 
